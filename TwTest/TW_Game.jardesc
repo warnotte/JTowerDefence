@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="TW/TDWAX_Game.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/TW/TW_Game.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=TW/src&lt;Main{Editor_Main.java[Editor_Main" manifestLocation="/TW/MANIFEST_GAME.MF" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/TW/.project"/>
+        <javaElement handleIdentifier="=WaxLib/WaxLib&lt;WaxLibrary.FileChooser"/>
+        <javaElement handleIdentifier="=WaxLib/WaxLib&lt;WaxLibrary.Dialog"/>
+        <javaElement handleIdentifier="=TW/src"/>
+        <file path="/TW/.classpath"/>
+        <javaElement handleIdentifier="=WaxLib/WaxLib&lt;WaxLibrary.Graphics.Component{DoubleBufferedPanel.java"/>
+    </selectedElements>
+</jardesc>

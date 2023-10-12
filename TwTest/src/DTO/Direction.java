@@ -1,0 +1,2 @@
+package DTO;
+public enum Direction {UP, UPRIGHT, RIGHT, RIGHTDOWN, DOWN,DOWNLEFT, LEFT, UPLEFT, NONE};

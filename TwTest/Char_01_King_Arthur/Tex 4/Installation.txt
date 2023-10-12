@@ -1,0 +1,22 @@
+If you are using these textures with the WORLD CREATOR then please acknowledge the following installation instructions!
+
+The *.ZIP file contains 16 sub folders with 16 textures in each sub folder. For easy installation I would recommend you retain the folder structure: Please follow the installation instructions below>
+
+INSTALLATION
+
+1). Create a FOLDER in the WORLD CREATOR App. Path and name it the same or silmilar to the the *.ZIP file name!
+
+2). UNZIP all contents to the FOLDER you created, retaining the sub-folder names within the *.ZIP file.
+
+3). To view the new TEXTURES simply set the PATH/S in the WORLD CREATOR-BROWSER!
+
+If you have any installation problems or any other problems regarding INET SOFTWARE then please contact us.
+
+
+adrianwalker@inet2inet.com
+
+adrianwalker@btinternet.com
+
+Regards
+
+INET SOFTWARE

@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: Main.Editor_Main
+Class-Path: lib/Object2GUI.jar lib/xstream-1.3.jar lib/swingx-1.0.jar
